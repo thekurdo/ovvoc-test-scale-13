@@ -2,6 +2,10 @@
   "name": "ovvoc-test-scale-13",
   "version": "1.0.0",
   "description": "TypeScript 4 library with 15 source files",
-  "scripts": { "test": "node test/tsconfig.test.js" },
-  "devDependencies": { "typescript": "4.9.5" }
+  "scripts": {
+    "test": "node test/tsconfig.test.js"
+  },
+  "devDependencies": {
+    "typescript": "5.7.3"
+  }
 }
